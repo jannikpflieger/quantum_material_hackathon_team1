@@ -1,1 +1,0 @@
-# quantum_material_hackathon_team1
